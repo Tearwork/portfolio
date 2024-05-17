@@ -1,7 +1,7 @@
 ---
 layout: post
-title: From digging to data
-description: Where it all began and how I got here, also known as how an archaeologist stepped into data science.
+title: About me
+description: From digging to data, also known as how an archaeologist stepped into data science.
 image: pic03.jpg
 ---
 
