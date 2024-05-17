@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About Me
-description: Come to know me.
+title: From digging to data
+description: Where it all began and how I got here, also known as how an archaeologist stepped into data science.
 image: pic03.jpg
 ---
 
