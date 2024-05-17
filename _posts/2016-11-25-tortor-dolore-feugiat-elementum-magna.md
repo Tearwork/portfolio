@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tortor dolore feugiat elementum magna
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: Works
+description: The porfolio, or things I enjoyed creating so far.
 image: pic02.jpg
 ---
 
