@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Maria
+title: Home
 description: Where Archaeology and Data Science Meet.
 ---
