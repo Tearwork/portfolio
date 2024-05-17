@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Works
+title: Works and Projects
 description: The porfolio, or things I enjoyed creating so far.
 image: pic02.jpg
 ---
