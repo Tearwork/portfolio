@@ -1,0 +1,21 @@
+---
+layout: page
+title: About Me
+description: From digging to data, also known as how an archaeologist stepped into data science.
+---
+
+<h1>About Me</h1>
+<p>Hi, I am Maria.</p> 
+
+<p>I am a dedicated professional with a unique blend of <strong>expertise in Archaeology and Data Science</strong>. Holding a degree in Archaeology and a second-level Master’s degree in Data Science and Statistical Learning, I specialize in applying deep learning techniques to archaeological research, driving <strong>innovation</strong> and <strong>accessibility</strong> in this fascinating field.</p>
+
+<h2>Professional Experience</h2>
+<p>My career has been marked by a commitment to <strong>multidisciplinary approaches</strong>, integrating field research with advanced data analysis. My roles have spanned from practical excavation work to the organization of significant academic events. I played a crucial role in the Spring Archaeology conferences of 2020 and 2022, where I managed project development and maintained vital connections with publishers, organizations, and authors. Additionally, I coordinated event planning and meticulously handled the layout and editing of conference materials for publication.</p>
+
+<h2>Field Work and Research</h2>
+<p>My fieldwork experience includes participating in <strong>archaeological excavations</strong>, in both independent and team settings on pluri-stratified sites. My responsibilities included drafting, reviewing, and organizing comprehensive scientific documentation, such as graphic, photographic, and photogrammetric surveys. I also played a key role in the preparation and conservation of recovered artifacts. I also provide archaeological <strong>assistance</strong>, generating detailed scientific documentation, including historical-archaeological reports and photographic records, while adhering to regulatory standards.</p>
+
+<p>I took part in a project that utilized <strong>deep learning models to study ancient Egyptian writings</strong>. Through segmentation and classification operations, we were able to gain new insights and enhance our understanding of these ancient texts.</p>
+
+<h2>Bridging Archaeology and Data Science</h2>
+<p>My academic and professional journey is driven by a passion for making archaeology a truly multidisciplinary field. By leveraging Data Science, I bring innovative analytical techniques to archaeological research, <strong>enhancing the depth and reach of our understanding</strong>. Through deep learning, I aim to make archaeological discoveries more insightful and accessible to diverse audiences.</p>
